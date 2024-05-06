@@ -1,6 +1,6 @@
 # Computación y Estructuras Discretas 2
 
-## Programación funcional, Tarea Integradora 2. Conjuntos como objetos
+## Programación funcional y POO. Conjuntos como objetos
 
 
 ### Objetivos
