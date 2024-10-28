@@ -1,10 +1,10 @@
 # Computación y Estructuras Discretas 2
 
-## Programación funcional y POO. Conjuntos como objetos
+## Problema: Conjuntos de tweets como árboles binarios de búsqueda
 
 
-### Objetivos
+### Resultados de Aprendizaje
 
-- Diseñar e implementar programas funcionales puros con estructuras de datos inmutables utilizando recursión, reconocimiento de patrones, mecanismos de encapsulación, funciones de alto orden e iteradores para resolver problemas de programación.
+- Aplicar el paradigma funcional en el análisis, diseño, evaluación e implementación de algoritmos para dar solución a problemas cuya estructura es naturalmente autocontenida y explicar las propiedades y operaciones del cálculo lambda como fundamento teórico de este paradigma.
 
-- Aplicar conceptos fundamentales de la programación funcional, utilizando un lenguaje de programación adecuado como SCALA, para analizar un problema, modelar, diseñar y desarrollar su solución.
+- Expresar o comunicar con el vocabulario y lenguaje adecuado/especializado las ideas principales sobre estructuras discretas o la programación funcional.
